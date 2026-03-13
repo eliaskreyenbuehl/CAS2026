@@ -1,0 +1,408 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://eliaskreyenbuehl.github.io/CAS2026/manifests/meinManifest",
+  "type" : "Manifest",
+  "label" : {
+    "none" : [ "Antwerpen, Erfgoedbibliotheek Hendrik Conscience, Fragm. 338 a-b" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Location" ]
+    },
+    "value" : {
+      "none" : [ "Antwerpen" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Collection Name" ]
+    },
+    "value" : {
+      "none" : [ "Erfgoedbibliotheek Hendrik Conscience" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Shelfmark" ]
+    },
+    "value" : {
+      "none" : [ "Fragm. 338 a-b" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Title" ]
+    },
+    "value" : {
+      "none" : [ "Book of hours" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Fragmentarium ID" ]
+    },
+    "value" : {
+      "none" : [ "F-65po" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Material" ]
+    },
+    "value" : {
+      "none" : [ "Parchment" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Document Type" ]
+    },
+    "value" : {
+      "none" : [ "Physical Reconstruction" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Number of Fragment Items" ]
+    },
+    "value" : {
+      "none" : [ "2 strips (parts of a leaf)" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Current Dimensions (in mm)" ]
+    },
+    "value" : {
+      "none" : [ "133 x 65 mm" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Online Since" ]
+    },
+    "value" : {
+      "none" : [ "2025-02-11" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Date of origin" ]
+    },
+    "value" : {
+      "none" : [ "1301 – 1350 CE" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Century" ]
+    },
+    "value" : {
+      "none" : [ "14th century" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Text Language" ]
+    },
+    "value" : {
+      "none" : [ "Latin" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Script Type" ]
+    },
+    "value" : {
+      "none" : [ "Northern Textualis" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Liturgica" ]
+    },
+    "value" : {
+      "none" : [ "Book of hours" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Decoration" ]
+    },
+    "value" : {
+      "none" : [ "Initial" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Decoration" ]
+    },
+    "value" : {
+      "none" : [ "Pen" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Decoration" ]
+    },
+    "value" : {
+      "none" : [ "Red" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Decoration" ]
+    },
+    "value" : {
+      "none" : [ "Other colour" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "[no description]" ]
+  },
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "Fragmentarium – International Digital Research Lab for Medieval Manuscript Fragments" ]
+    }
+  },
+  "provider" : [ {
+    "id" : "http://example.org/provider",
+    "type" : "Agent",
+    "label" : {
+      "none" : [ "" ]
+    },
+    "logo" : [ {
+      "id" : "https://fragmentarium.ms/img/fragmentarium-logo-sm-square.png",
+      "type" : "Image"
+    } ]
+  } ],
+  "seeAlso" : [ {
+    "id" : "http://example.org/undefined/2",
+    "type" : "unknown"
+  } ],
+  "service" : [ {
+    "0" : "h",
+    "1" : "t",
+    "2" : "t",
+    "3" : "p",
+    "4" : "s",
+    "5" : ":",
+    "6" : "/",
+    "7" : "/",
+    "8" : "f",
+    "9" : "r",
+    "10" : "a",
+    "11" : "g",
+    "12" : "m",
+    "13" : "e",
+    "14" : "n",
+    "15" : "t",
+    "16" : "a",
+    "17" : "r",
+    "18" : "i",
+    "19" : "u",
+    "20" : "m",
+    "21" : ".",
+    "22" : "m",
+    "23" : "s",
+    "24" : "/",
+    "25" : "s",
+    "26" : "e",
+    "27" : "a",
+    "28" : "r",
+    "29" : "c",
+    "30" : "h",
+    "31" : "/",
+    "@type" : "Service"
+  } ],
+  "partOf" : [ {
+    "id" : "https://fragmentarium.ms/metadata/iiif/collection/C-yyuw.json",
+    "type" : "Collection"
+  } ],
+  "items" : [ {
+    "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_1r.jp2.json",
+    "type" : "Canvas",
+    "height" : 3124,
+    "width" : 3253,
+    "label" : {
+      "none" : [ "fol. [1]r" ]
+    },
+    "items" : [ {
+      "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_1r.jp2.json/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/annotation/F-65po/fol_1r.jp2.json",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_1r.jp2.json",
+        "body" : {
+          "id" : "https://fragmentarium.ms:443/loris/F-65po/fol_1r.jp2/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3124,
+          "width" : 3253,
+          "service" : [ {
+            "@id" : "https://fragmentarium.ms:443/loris/F-65po/fol_1r.jp2",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_1v.jp2.json",
+    "type" : "Canvas",
+    "height" : 2897,
+    "width" : 3251,
+    "label" : {
+      "none" : [ "fol. [1]v" ]
+    },
+    "items" : [ {
+      "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_1v.jp2.json/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/annotation/F-65po/fol_1v.jp2.json",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_1v.jp2.json",
+        "body" : {
+          "id" : "https://fragmentarium.ms:443/loris/F-65po/fol_1v.jp2/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2897,
+          "width" : 3251,
+          "service" : [ {
+            "@id" : "https://fragmentarium.ms:443/loris/F-65po/fol_1v.jp2",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_2r.jp2.json",
+    "type" : "Canvas",
+    "height" : 2978,
+    "width" : 3329,
+    "label" : {
+      "none" : [ "fol. [2]r" ]
+    },
+    "items" : [ {
+      "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_2r.jp2.json/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/annotation/F-65po/fol_2r.jp2.json",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_2r.jp2.json",
+        "body" : {
+          "id" : "https://fragmentarium.ms:443/loris/F-65po/fol_2r.jp2/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2978,
+          "width" : 3329,
+          "service" : [ {
+            "@id" : "https://fragmentarium.ms:443/loris/F-65po/fol_2r.jp2",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_2v.jp2.json",
+    "type" : "Canvas",
+    "height" : 3008,
+    "width" : 3088,
+    "label" : {
+      "none" : [ "fol. [2]v" ]
+    },
+    "items" : [ {
+      "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_2v.jp2.json/annotation-page",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/annotation/F-65po/fol_2v.jp2.json",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://fragmentarium.ms/metadata/iiif/F-65po/canvas/F-65po/fol_2v.jp2.json",
+        "body" : {
+          "id" : "https://fragmentarium.ms:443/loris/F-65po/fol_2v.jp2/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3008,
+          "width" : 3088,
+          "service" : [ {
+            "@id" : "https://fragmentarium.ms:443/loris/F-65po/fol_2v.jp2",
+            "@type" : "ImageService2",
+            "profile" : "level2"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/manifest.json/canvas/vr0qbzdbb5-mmn4ehlq",
+    "type" : "Canvas",
+    "height" : 5686,
+    "width" : 4991,
+    "label" : {
+      "en" : [ "fol. X r" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://www.e-rara.ch/i3f/v21/12530938/full/304,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 346,
+      "width" : 304
+    } ],
+    "items" : [ {
+      "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/manifest.json/canvas/vr0qbzdbb5-mmn4ehlq/annotation-page/kbnj79gnpt-mmn4ehlq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://fragmentarium.ms/metadata/iiif/F-65po/manifest.json/annotation/xtx305uols-mmn4ehlp",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://fragmentarium.ms/metadata/iiif/F-65po/manifest.json/canvas/vr0qbzdbb5-mmn4ehlq",
+        "body" : {
+          "id" : "https://www.e-rara.ch/i3f/v21/12530938/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 5686,
+          "width" : 4991,
+          "service" : [ {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-rara.ch/i3f/v21/12530938",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "regionSquare", "rotationArbitrary", "sizeAboveFull", "sizeByConfinedWh", "sizeByDistortedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+              "qualities" : [ "default", "color", "gray", "bitonal" ],
+              "formats" : [ "jpg" ]
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "width" : 4991,
+            "height" : 5686,
+            "sizes" : [ {
+              "width" : 128,
+              "height" : 146
+            }, {
+              "width" : 304,
+              "height" : 346
+            }, {
+              "width" : 504,
+              "height" : 574
+            }, {
+              "width" : 800,
+              "height" : 911
+            }, {
+              "width" : 1000,
+              "height" : 1139
+            }, {
+              "width" : 1200,
+              "height" : 1367
+            }, {
+              "width" : 1504,
+              "height" : 1713
+            }, {
+              "width" : 2000,
+              "height" : 2279
+            }, {
+              "width" : 4000,
+              "height" : 4557
+            }, {
+              "width" : 4991,
+              "height" : 5686
+            } ],
+            "tiles" : [ {
+              "width" : 512,
+              "scaleFactors" : [ 1, 1.24775, 2.4955, 3.3184840425531914, 4.159166666666667, 4.991, 6.23875, 9.902777777777779, 16.417763157894736, 38.9921875 ],
+              "height" : 512
+            } ]
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
