@@ -1,0 +1,15 @@
+{
+  "id" : "https://eliaskreyenbuehl.github.io/CAS2026/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in eliaskreyenbuehl/CAS2026 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://eliaskreyenbuehl.github.io/CAS2026/manifests/meinManifest",
+    "label" : {
+      "none" : [ "Antwerpen, Erfgoedbibliotheek Hendrik Conscience, Fragm. 338 a-b" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
