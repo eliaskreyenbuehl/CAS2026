@@ -1,0 +1,155 @@
+{
+  "viewingHint" : "paged",
+  "attribution" : "e-manuscripta.ch, the digital platform for manuscript material from Swiss libraries and archives",
+  "service" : [ ],
+  "structures" : [ ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "height" : 3856,
+      "width" : 3182,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-manuscripta.ch/i3f/v20/182734"
+          },
+          "format" : "image/jpeg",
+          "height" : 1211,
+          "width" : 1000,
+          "@id" : "https://www.e-manuscripta.ch/download/webcache/1000/182734",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182734",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/annotation/182734",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[1]",
+      "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182734",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3219,
+      "width" : 3877,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-manuscripta.ch/i3f/v20/182735"
+          },
+          "format" : "image/jpeg",
+          "height" : 830,
+          "width" : 1000,
+          "@id" : "https://www.e-manuscripta.ch/download/webcache/1000/182735",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182735",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/annotation/182735",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[2]",
+      "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182735",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 4128,
+      "width" : 3574,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-manuscripta.ch/i3f/v20/182736"
+          },
+          "format" : "image/jpeg",
+          "height" : 1155,
+          "width" : 1000,
+          "@id" : "https://www.e-manuscripta.ch/download/webcache/1000/182736",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182736",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/annotation/182736",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[3]",
+      "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182736",
+      "@type" : "sc:Canvas"
+    }, {
+      "height" : 3976,
+      "width" : 3376,
+      "images" : [ {
+        "resource" : {
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://www.e-manuscripta.ch/i3f/v20/182737"
+          },
+          "format" : "image/jpeg",
+          "height" : 1177,
+          "width" : 1000,
+          "@id" : "https://www.e-manuscripta.ch/download/webcache/1000/182737",
+          "@type" : "dctypes:Image"
+        },
+        "on" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182737",
+        "motivation" : "sc:painting",
+        "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/annotation/182737",
+        "@type" : "oa:Annotation"
+      } ],
+      "label" : "[4]",
+      "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182737",
+      "@type" : "sc:Canvas"
+    } ],
+    "viewingHint" : "paged",
+    "startCanvas" : "https://www.e-manuscripta.ch/i3f/v20/182731/canvas/182734",
+    "viewingDirection" : "left-to-right",
+    "label" : "Current Page Order",
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id" : "https://www.e-manuscripta.ch/i3f/v20/182731/sequence/normal",
+    "@type" : "sc:Sequence"
+  } ],
+  "label" : "Amalfi, Arezzo, Arsizio, Benevent",
+  "thumbnail" : {
+    "width" : 304,
+    "height" : 368,
+    "@id" : "https://www.e-manuscripta.ch/i3f/v21/182734/full/304/0/default.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg"
+  },
+  "logo" : {
+    "@id" : "https://www.e-manuscripta.ch/domainimage/logo.svg",
+    "service" : {
+      "profile" : "http://iiif.io/api/image/2/level2.json",
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "http://www.ub.unibas.ch"
+    }
+  },
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "metadata" : [ {
+    "value" : "9/1 (1860) Amalfi, Arezzo, Arsizio, Benevent",
+    "label" : "Title"
+  }, {
+    "value" : "[zwischen 1860?-1897]",
+    "label" : "Place and Date of Creation"
+  }, {
+    "value" : "4 Fotografien",
+    "label" : "Physical Description"
+  }, {
+    "value" : "Universitätsbibliothek Basel, NL 13 : 39:B:55:1",
+    "label" : "Providing Institution"
+  }, {
+    "value" : "15/01/2013",
+    "label" : "Online since"
+  }, {
+    "value" : "https://doi.org/10.7891/e-manuscripta-8231",
+    "label" : "DOI"
+  } ],
+  "@id" : "https://eliaskreyenbuehl.github.io/CAS2026/manifests/amalfi.json",
+  "@type" : "sc:Manifest",
+  "seeAlso" : {
+    "format" : "application/xml",
+    "@id" : "https://www.e-manuscripta.ch/oai?verb=GetRecord&metadataPrefix=mets&identifier=182731",
+    "label" : "METS"
+  }
+}
