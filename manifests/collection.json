@@ -11,5 +11,9 @@
       "none" : [ "Antwerpen, Erfgoedbibliotheek Hendrik Conscience, Fragm. 338 a-b" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://eliaskreyenbuehl.github.io/CAS2026/manifests/amalfi.json",
+    "label" : "Amalfi, Arezzo, Arsizio, Benevent"
   } ]
 }
